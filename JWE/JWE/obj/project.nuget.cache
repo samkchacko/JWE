@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "MIpTUgdh3ms=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sam.chacko\\Desktop\\JWE\\JWE\\JWE\\JWE.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sam.chacko\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\6.0.16\\microsoft.aspnetcore.authentication.jwtbearer.6.0.16.nupkg.sha512",
+    "C:\\Users\\sam.chacko\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\8.0.0\\microsoft.bcl.asyncinterfaces.8.0.0.nupkg.sha512",
+    "C:\\Users\\sam.chacko\\.nuget\\packages\\microsoft.bcl.memory\\9.0.0\\microsoft.bcl.memory.9.0.0.nupkg.sha512",
+    "C:\\Users\\sam.chacko\\.nuget\\packages\\microsoft.bcl.timeprovider\\8.0.1\\microsoft.bcl.timeprovider.8.0.1.nupkg.sha512",
+    "C:\\Users\\sam.chacko\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\sam.chacko\\.nuget\\packages\\microsoft.identitymodel.abstractions\\8.8.0\\microsoft.identitymodel.abstractions.8.8.0.nupkg.sha512",
+    "C:\\Users\\sam.chacko\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\8.8.0\\microsoft.identitymodel.jsonwebtokens.8.8.0.nupkg.sha512",
+    "C:\\Users\\sam.chacko\\.nuget\\packages\\microsoft.identitymodel.logging\\8.8.0\\microsoft.identitymodel.logging.8.8.0.nupkg.sha512",
+    "C:\\Users\\sam.chacko\\.nuget\\packages\\microsoft.identitymodel.protocols\\6.10.0\\microsoft.identitymodel.protocols.6.10.0.nupkg.sha512",
+    "C:\\Users\\sam.chacko\\.nuget\\packages\\microsoft.identitymodel.protocols.openidconnect\\6.10.0\\microsoft.identitymodel.protocols.openidconnect.6.10.0.nupkg.sha512",
+    "C:\\Users\\sam.chacko\\.nuget\\packages\\microsoft.identitymodel.tokens\\8.8.0\\microsoft.identitymodel.tokens.8.8.0.nupkg.sha512",
+    "C:\\Users\\sam.chacko\\.nuget\\packages\\system.identitymodel.tokens.jwt\\8.8.0\\system.identitymodel.tokens.jwt.8.8.0.nupkg.sha512",
+    "C:\\Users\\sam.chacko\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
