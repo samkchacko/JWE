@@ -1,1 +1,2 @@
 JWE/JWE/bin/Debug/net6.0/JWT/*.pem
+!JWE/JWE/bin/Debug/net6.0/JWT/
